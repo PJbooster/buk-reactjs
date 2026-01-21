@@ -1,4 +1,3 @@
-cat <<EOF > README.md
 
 # 🏆 Next.js Betting App - Real-Time Emulator & Slip
 
