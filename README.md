@@ -9,16 +9,6 @@ cat <<EOF > README.md
 - **Zarządzanie Stanem:** Context API (BetProvider)
 - **Stylizacja:** Tailwind CSS
 
-## 📂 Struktura Projektu
-
-\`\`\`text
-src/
-├── app/ # Routing i układy (Layout & Page)
-├── components/ # Komponenty UI (EventRow, OutcomeButton, BetSlip)
-├── provider/ # BetContext - serce logiki biznesowej
-├── hooks/ # Logika emulatora i synchronizacji stanów
-\`\`\`
-
 ## ⚙️ Instalacja i Uruchomienie
 
 ### Wymagania wstępne
